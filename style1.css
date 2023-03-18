@@ -1,0 +1,17 @@
+.node{
+    color: aqua;
+    
+}
+img{
+    height: 400px;
+    width: 800px;
+    background-color: brown;
+}
+body{
+    background-color: antiquewhite;
+}
+figcaption{
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
